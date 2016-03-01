@@ -1,10 +1,10 @@
 NidorinoBaseStats: ; 3875e (e:475e)
 db DEX_NIDORINO ; pokedex id
-db 61 ; base hp
-db 72 ; base attack
-db 57 ; base defense
-db 65 ; base speed
-db 55 ; base special
+db 80 ; base hp
+db 90 ; base attack
+db 85 ; base defense
+db 90 ; base speed
+db 85 ; base special
 db POISON ; species type 1
 db POISON ; species type 2
 db 120 ; catch rate
