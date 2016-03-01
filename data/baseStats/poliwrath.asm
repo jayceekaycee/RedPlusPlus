@@ -1,10 +1,10 @@
 PoliwrathBaseStats: ; 38a8a (e:4a8a)
 db DEX_POLIWRATH ; pokedex id
-db 90 ; base hp
-db 95 ; base attack
-db 95 ; base defense
+db 95 ; base hp
+db 130 ; base attack
+db 100 ; base defense
 db 70 ; base speed
-db 70 ; base special
+db 125 ; base special
 db WATER ; species type 1
 db FIGHTING ; species type 2
 db 45 ; catch rate
