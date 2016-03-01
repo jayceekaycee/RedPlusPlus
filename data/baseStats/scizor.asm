@@ -1,10 +1,10 @@
 ScizorBaseStats: ; 39136 (e:5136)
 db DEX_SCIZOR ; pokedex id
-db 70 ; base hp
+db 90 ; base hp
 db 130 ; base attack
-db 100 ; base defense
-db 65 ; base speed
-db 80 ; base special
+db 110 ; base defense
+db 85 ; base speed
+db 105 ; base special
 db BUG ; species type 1
 db STEEL ; species type 2
 db 25 ; catch rate
