@@ -1,13 +1,13 @@
 PikachuBaseStats: ; 3867e (e:467e)
 db DEX_PIKACHU ; pokedex id
-db 35 ; base hp
-db 55 ; base attack
-db 40 ; base defense
-db 90 ; base speed
-db 50 ; base special
+db 90 ; base hp
+db 120 ; base attack
+db 95 ; base defense
+db 120 ; base speed
+db 130 ; base special
 db ELECTRIC ; species type 1
 db ELECTRIC ; species type 2
-db 190 ; catch rate
+db 255 ; catch rate
 db 82 ; base exp yield
 INCBIN "pic/bmon/pikachu.pic",0,1 ; 55, sprite dimensions
 dw PikachuPicFront
