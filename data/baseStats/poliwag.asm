@@ -1,10 +1,10 @@
 PoliwagBaseStats: ; 38a52 (e:4a52)
 db DEX_POLIWAG ; pokedex id
-db 40 ; base hp
-db 50 ; base attack
-db 40 ; base defense
+db 80 ; base hp
+db 80 ; base attack
+db 80 ; base defense
 db 90 ; base speed
-db 40 ; base special
+db 80 ; base special
 db WATER ; species type 1
 db WATER ; species type 2
 db 255 ; catch rate
