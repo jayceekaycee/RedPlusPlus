@@ -1,14 +1,14 @@
 PidgeyBaseStats: ; 38582 (e:4582)
 db DEX_PIDGEY ; pokedex id
-db 40 ; base hp
-db 45 ; base attack
-db 40 ; base defense
+db 50 ; base hp
+db 60 ; base attack
+db 55 ; base defense
 db 56 ; base speed
-db 35 ; base special
+db 60 ; base special
 db NORMAL ; species type 1
 db FLYING ; species type 2
 db 255 ; catch rate
-db 55 ; base exp yield
+db 255 ; base exp yield
 INCBIN "pic/bmon/pidgey.pic",0,1 ; 55, sprite dimensions
 dw PidgeyPicFront
 dw PidgeyPicBack
