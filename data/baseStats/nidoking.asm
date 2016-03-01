@@ -1,10 +1,10 @@
 NidokingBaseStats: ; 3877a (e:477a)
 db DEX_NIDOKING ; pokedex id
-db 81 ; base hp
-db 102 ; base attack
-db 77 ; base defense
-db 85 ; base speed
-db 75 ; base special
+db 105 ; base hp
+db 120 ; base attack
+db 90 ; base defense
+db 90 ; base speed
+db 115 ; base special
 db POISON ; species type 1
 db GROUND ; species type 2
 db 45 ; catch rate
