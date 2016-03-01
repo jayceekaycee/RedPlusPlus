@@ -1,13 +1,13 @@
 EeveeBaseStats: ; 3924e (e:524e)
 db DEX_EEVEE ; pokedex id
-db 55 ; base hp
-db 55 ; base attack
-db 50 ; base defense
-db 55 ; base speed
-db 65 ; base special
+db 90 ; base hp
+db 85 ; base attack
+db 82 ; base defense
+db 85 ; base speed
+db 85 ; base special
 db NORMAL ; species type 1
 db NORMAL ; species type 2
-db 45 ; catch rate
+db 255 ; catch rate
 db 92 ; base exp yield
 INCBIN "pic/bmon/eevee.pic",0,1 ; 55, sprite dimensions
 dw EeveePicFront
