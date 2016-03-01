@@ -1,10 +1,10 @@
 PidgeotBaseStats: ; 385ba (e:45ba)
 db DEX_PIDGEOT ; pokedex id
-db 83 ; base hp
-db 80 ; base attack
-db 75 ; base defense
-db 101 ; base speed
-db 70 ; base special
+db 120 ; base hp
+db 135; base attack
+db 95; base defense
+db 120 ; base speed
+db 120; base special
 db NORMAL ; species type 1
 db FLYING ; species type 2
 db 45 ; catch rate
