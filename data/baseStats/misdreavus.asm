@@ -1,10 +1,10 @@
 MisdreavusBaseStats: ; 38aa6 (e:4aa6)
 db DEX_MISDREAVUS ; pokedex id
-db 60 ; base hp
-db 60 ; base attack
-db 60 ; base defense
-db 85 ; base speed
-db 85 ; base special
+db 110 ; base hp
+db 110; base attack
+db 100; base defense
+db 110; base speed
+db 110; base special
 db GHOST ; species type 1
 db GHOST ; species type 2
 db 45 ; catch rate
