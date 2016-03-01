@@ -1,10 +1,10 @@
 ScytherBaseStats: ; 39136 (e:5136)
 db DEX_SCYTHER ; pokedex id
-db 70 ; base hp
+db 85 ; base hp
 db 110 ; base attack
 db 80 ; base defense
 db 105 ; base speed
-db 55 ; base special
+db 95 ; base special
 db BUG ; species type 1
 db FLYING ; species type 2
 db 45 ; catch rate
