@@ -1,10 +1,10 @@
 IvysaurBaseStats: ; 383fa (e:43fa)
 db DEX_IVYSAUR ; pokedex id
-db 60 ; base hp
-db 62 ; base attack
-db 63 ; base defense
-db 60 ; base speed
-db 80 ; base special
+db 90 ; base hp
+db 85 ; base attack
+db 85 ; base defense
+db 85 ; base speed
+db 90 ; base special
 db GRASS ; species type 1
 db POISON ; species type 2
 db 45 ; catch rate
